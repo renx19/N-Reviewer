@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/N-Reviewer/static/css/main.cf1afb5f.css",
+    "main.css": "/N-Reviewer/static/css/main.701297a0.css",
     "main.js": "/N-Reviewer/static/js/main.45ae443d.js",
     "static/media/Rosa Linn - SNAP (Lyrics).mp3": "/N-Reviewer/static/media/Rosa Linn - SNAP (Lyrics).a17a1948691274f52055.mp3",
     "static/media/Sun.svg": "/N-Reviewer/static/media/Sun.aef8f60b836976321d24aa4163dbfb7f.svg",
     "static/media/Moon.svg": "/N-Reviewer/static/media/Moon.af99a536ce1d19f741275b8554beaa63.svg",
     "index.html": "/N-Reviewer/index.html",
-    "main.cf1afb5f.css.map": "/N-Reviewer/static/css/main.cf1afb5f.css.map",
+    "main.701297a0.css.map": "/N-Reviewer/static/css/main.701297a0.css.map",
     "main.45ae443d.js.map": "/N-Reviewer/static/js/main.45ae443d.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf1afb5f.css",
+    "static/css/main.701297a0.css",
     "static/js/main.45ae443d.js"
   ]
 }
